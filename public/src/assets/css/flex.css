@@ -1,0 +1,59 @@
+.flex {
+	display: flex;
+}
+.flexAlignCenter {
+	display: flex;
+	align-items: center;
+}
+.flexdirection {
+	display: flex;
+	flex-direction: column;
+}
+.flexcenter {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.flexDirectionCenter {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.justifyend{
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}
+.justifyBetweenocenter{
+	display: flex;
+	justify-content: space-between;
+}
+.justifyaround{
+	display: flex;
+	justify-content: space-around;
+}
+.justifyBetween{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.justifyAround{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+@font-face{
+	font-family: "Ding";
+	font-weight: 400;
+	src:url("../fonts/kVkZZxF5OAoQ.woff2") format("woff2"),
+	url("../fonts/kVkZZxF5OAoQ.woff") format("woff");
+	font-display:swap;
+}
+.icon {
+  width: 1em; 
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}

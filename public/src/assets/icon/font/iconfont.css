@@ -1,0 +1,135 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4694929 */
+  src: url('iconfont.woff2?t=1727249135996') format('woff2'),
+       url('iconfont.woff?t=1727249135996') format('woff'),
+       url('iconfont.ttf?t=1727249135996') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ruogaochuixue:before {
+  content: "\e61b";
+}
+
+.icon-wumai:before {
+  content: "\e630";
+}
+
+.icon-biao:before {
+  content: "\e745";
+}
+
+.icon-longjuanfeng:before {
+  content: "\e735";
+}
+
+.icon-qingwu:before {
+  content: "\e647";
+}
+
+.icon-dongyu:before {
+  content: "\e6c3";
+}
+
+.icon-yujiaxue:before {
+  content: "\e61a";
+}
+
+.icon-leizhenyubingbanyoubingbao:before {
+  content: "\e621";
+}
+
+.icon-icon_qingtian:before {
+  content: "\e608";
+}
+
+.icon-icon_yejianqingtian:before {
+  content: "\e609";
+}
+
+.icon-icon_yintian:before {
+  content: "\e60a";
+}
+
+.icon-icon_duoyun:before {
+  content: "\e60b";
+}
+
+.icon-icon_yejianduoyun:before {
+  content: "\e60c";
+}
+
+.icon-icon_zhenyu:before {
+  content: "\e60d";
+}
+
+.icon-icon_xiaoyu:before {
+  content: "\e60e";
+}
+
+.icon-icon_zhongyu:before {
+  content: "\e60f";
+}
+
+.icon-icon_dayu:before {
+  content: "\e610";
+}
+
+.icon-icon_baoyu:before {
+  content: "\e611";
+}
+
+.icon-icon_leizhenyu:before {
+  content: "\e612";
+}
+
+.icon-icon_zhenxue:before {
+  content: "\e613";
+}
+
+.icon-icon_xiaoxue:before {
+  content: "\e614";
+}
+
+.icon-icon_zhongxue:before {
+  content: "\e615";
+}
+
+.icon-icon_daxue:before {
+  content: "\e616";
+}
+
+.icon-icon_baoxue:before {
+  content: "\e617";
+}
+
+.icon-icon_wu:before {
+  content: "\e618";
+}
+
+.icon-icon_yejianwu:before {
+  content: "\e619";
+}
+
+.icon-icon_fuchen:before {
+  content: "\e61e";
+}
+
+.icon-icon_yangsha:before {
+  content: "\e61f";
+}
+
+.icon-icon_shachenbao:before {
+  content: "\e620";
+}
+
+.icon-icon_wushuju:before {
+  content: "\e622";
+}
+
